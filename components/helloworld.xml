@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<component name="HelloWorld" extends="Scene"> 
-	<children>
-      <Label id="myLabel" 
+<component name="HelloWorld" extends="Scene">
+  <children>
+      <Label id="myLabel"
       	text="Hello World!"
-      	width="1280" 
-      	height="720" 
+      	width="1280"
+      	height="720"
       	horizAlign="center"
       	vertAlign="center"
       	/>
@@ -12,7 +12,7 @@
 <!-- BrightScript Portion -->
 <script type="text/brightscript" >
 <![CDATA[
-  '** 
+  '**
   '** Example: Edit a Label size and color with BrightScript
   '**
 
